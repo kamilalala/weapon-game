@@ -1,0 +1,5 @@
+U:\MyDocuments\!Y12\Computing\CLASSES\CLASSES\bin\Debug\CLASSES.exe
+U:\MyDocuments\!Y12\Computing\CLASSES\CLASSES\bin\Debug\CLASSES.pdb
+U:\MyDocuments\!Y12\Computing\CLASSES\CLASSES\obj\x86\Debug\CLASSES.exe
+U:\MyDocuments\!Y12\Computing\CLASSES\CLASSES\obj\x86\Debug\CLASSES.pdb
+U:\MyDocuments\!Y12\Computing\CLASSES\CLASSES\obj\x86\Debug\CLASSES.csprojResolveAssemblyReference.cache
